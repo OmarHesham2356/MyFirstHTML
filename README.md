@@ -24,6 +24,15 @@ MyFirstHTML is a beginner-friendly project designed to help individuals learn th
 
 This project has no external dependencies. All you need is a web browser to view the HTML files and a text editor to modify the code.
 
+## 🌐 Online Validators
+
+You can use the following tools to check and validate your code:
+
+- ✅ [W3C HTML Validator](https://validator.w3.org) – validate your HTML structure  
+- 🎨 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) – validate your CSS styling
+
+---
+
 ## Contribution Guidelines
 
 We welcome contributions that improve the project's clarity and educational value for beginners.
